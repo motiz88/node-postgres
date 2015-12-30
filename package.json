@@ -1,6 +1,6 @@
 {
-  "name": "pg",
-  "version": "4.4.3",
+  "name": "@motiz88/pg",
+  "version": "4.4.3-keepalives",
   "description": "PostgreSQL client - pure javascript & libpq with the same API",
   "keywords": [
     "postgres",
@@ -16,6 +16,7 @@
     "url": "git://github.com/brianc/node-postgres.git"
   },
   "author": "Brian Carlson <brian.m.carlson@gmail.com>",
+  "contributors": ["Moti Zilberman <motiz88@gmail.com>"],
   "main": "./lib",
   "dependencies": {
     "buffer-writer": "1.0.0",
